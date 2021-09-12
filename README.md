@@ -13,9 +13,9 @@ git clone https://github.com/QGMW22/pody_application
 and you move to tradinghorse directory under the current directory.
 ```
 #for Linux and Mac
-cd ./tradinghorse
+cd ./pody_application
 #for Windows
-cd tradinghorse
+cd pody_application
 ```
 
 2. Next, Reproduce the environment.
@@ -26,6 +26,7 @@ julia setup.jl
 3. All you have to do is execute the command. If you want to use it with a traditional model, do as follows.
 ```
 #for Linux and Mac
+chmod 755 tradinghorse.sh
 ./tradinghorse.sh -traditional
 #for Windows
 ./tradinghorse.bat -traditional
