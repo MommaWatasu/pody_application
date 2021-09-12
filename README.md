@@ -5,7 +5,7 @@
 This program is made for my report 「Polynomial dynamic activation function:活性化関数の学習」, and predicts up and down of the BTC prices.
 
 ## Usage
-If you use this program, you have to install (the Julia language)[https://julialang.org/]!
+If you use this program, you have to install [the Julia language](https://julialang.org/) !
 1. you get source code by:
 ```
 git clone https://github.com/QGMW22/pody_application
